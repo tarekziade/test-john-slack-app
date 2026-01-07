@@ -1,4 +1,9 @@
 Testing the slack bot
 ---------------------
 
-Add a secret with the slack bot token in `SLACK_BOT_TOKEN` in GitHub repo/org secrets.
+Add the following secrets in GitHub repo/org secrets.
+
+- SLACK_BOT_TOKEN
+- SLACK_CHANNEL_ID
+
+ 
